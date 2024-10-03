@@ -20,7 +20,6 @@
 - Educational Applications
 - Creative Web Design
 
-## 😄 Pronouns: He/Him
 
 ## ⚡ Fun fact:
 I love exploring new technologies and I have a passion for teaching children through engaging educational platforms!
